@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    gap: 5px;
+    align-items: flex-end;
+    justify-content: center;
+    width: 800px;
+    height: 300px;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bar {
+    width: 20px;
+    background-color: black;
+}
